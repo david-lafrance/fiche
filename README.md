@@ -1,7 +1,8 @@
 Bonjour,
-Ceci est un projet personnel que je réalise par moi-même dans le cadre de mon apprentissage de la programmation. 
+
+Ceci est un projet personnel que je réalise par moi-même dans le cadre de mon apprentissage de la programmation. Il consiste en la réalisation d'une fiche de personnage du jeu de rôle Pathfinder calculant automatiquement de autant de caractéristiques que possible et enregistrant les données des personnages crées dans une base de donnée.
 Je travaille sur ce projet depuis quelques mois durant mon temps libre, et continue d'y apporter de nouvelles fonctionnalités ainsi que des ajustements régulièrement. 
-Comme cela a déjà eu lieu par le passé, la structure et le fonctionnement de ce projet est susceptible de changer au gré de ce que je souhaites y ajouter, ainsi que de mon apprentissage de certains langages, modules ou fonctions qui s'avèreraient plus cohérents que ceux actuellemnts utilisés dans mon code.
+Comme cela a déjà eu lieu par le passé, la structure et le fonctionnement de ce projet est susceptible de changer au gré de ce que je souhaites y ajouter, ainsi que de mon apprentissage de certains langages, modules ou fonctions qui s'avèreraient plus cohérents par rapport au résultat recherché que ceux actuellements utilisés dans mon code.
 
 Afin d'installer et d'utiliser ce programme :
 
